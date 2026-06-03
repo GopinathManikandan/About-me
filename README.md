@@ -15,8 +15,8 @@
 <!-- Profile Views + Followers -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=GopinathManikandan&label=Profile+Views&color=0e7490&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/GopinathManikandan?label=Followers&style=for-the-badge&color=0e7490)](https://github.com/GopinathManikandan)
+![Leetcode](https://leetcode.com/u/Gopinath_Manikandan/  )
+[![Hackerrank](https://www.hackerrank.com/profile/gopinath_m090321)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0e7490?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gopinath-manikandan-465a6825a)
 
 </div>
@@ -152,7 +152,7 @@ class Gopinath:
 
 | Role | Company | Duration | Skills Used |
 |------|---------|----------|-------------|
-| 📊 **Data Analyst Intern** | Besant Technologies, Bangalore | Jan 2026 – Present | SQL, Python, Power BI |
+| 📊 **Data Analyst Intern** | Besant Technologies, Bangalore | Jan 2026 – Present | SQL, Python, Power BI, Excel |
 | 🌐 **Full Stack Intern** | LiveWire, Salem | Sep 2024 – Oct 2024 | HTML, CSS, Bootstrap |
 
 </div>
