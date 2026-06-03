@@ -56,29 +56,33 @@ me = DataAnalyst()
 
 ### 🧰 Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" /><br><sub><b>Python</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" /><br><sub><b>MySQL</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" /><br><sub><b>GitHub</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" /><br><sub><b>VS Code</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jupyter" width="48" /><br><sub><b>Jupyter</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" /><br><sub><b>HTML</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" /><br><sub><b>CSS</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" /><br><sub><b>Git</b></sub></td>
-  </tr>
-</table>
-
+#### 💻 Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" />
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=python" height="48" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=html" height="48" title="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" height="48" title="CSS"/>
+</p>
+
+#### 📊 Data Analysis & Visualization
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="35"/>
+</p>
+
+#### 🛠️ Tools & IDE
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="48" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="48" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" title="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=jupyter" height="48" title="Jupyter"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" height="48"/>
+  <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" height="48"/>
 </p>
 
 ---
@@ -126,17 +130,52 @@ Cleaned and transformed **10,000+ records** using SQL and Python. Built **Power 
 
 ---
 
-### 🏆 Achievements & Certifications
+### 🏆 Certifications
 
-| 📜 | Certificate | Issuer |
-|:---:|:---|:---|
-| 🐍 | Python Programming and Applications | IIM Bangalore |
-| 🐍 | Programming in Python | IIM Bangalore |
-| 🗄️ | SQL — Easy & Intermediate | HackerRank |
+<table>
+<tr>
+<td>🐍</td>
+<td>
+  <strong>Python Programming and Applications</strong><br/>
+  <sub>IIM Bangalore — Indian Institute of Management Bangalore</sub>
+</td>
+</tr>
+<tr>
+<td>🐍</td>
+<td>
+  <strong>Programming in Python</strong><br/>
+  <sub>IIM Bangalore — Indian Institute of Management Bangalore</sub>
+</td>
+</tr>
+<tr>
+<td>⭐</td>
+<td>
+  <strong>SQL — Easy & Intermediate</strong><br/>
+  <sub><a href="https://www.hackerrank.com/profile/gopinath_m090321">HackerRank — View Profile →</a></sub>
+</td>
+</tr>
+</table>
 
-<p align="right">
-  <a href="https://www.hackerrank.com/profile/gopinath_m090321"><sub>🔗 View HackerRank Profile →</sub></a>
-</p>
+---
+
+### 🎓 Education
+
+<table>
+<tr>
+<td>🎓</td>
+<td>
+  <strong>B.Tech — Artificial Intelligence & Data Science</strong><br/>
+  <sub>Mahendra College of Engineering, Bengaluru &nbsp;|&nbsp; CGPA: 7.63 &nbsp;|&nbsp; 2022 – 2026</sub>
+</td>
+</tr>
+<tr>
+<td>📚</td>
+<td>
+  <strong>HSC</strong><br/>
+  <sub>Gugai Hr. Sec. School, Salem &nbsp;|&nbsp; 2022</sub>
+</td>
+</tr>
+</table>
 
 ---
 
