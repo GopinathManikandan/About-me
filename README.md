@@ -15,9 +15,9 @@
 <!-- Profile Views + Followers -->
 <div align="center">
 
-![Leetcode](https://leetcode.com/u/Gopinath_Manikandan/  )
-[![Hackerrank](https://www.hackerrank.com/profile/gopinath_m090321)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0e7490?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gopinath-manikandan-465a6825a)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0a192f?style=for-the-badge&logo=hackerrank&logoColor=38bdf8)](https://www.hackerrank.com/profile/gopinath_m090321)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0a192f?style=for-the-badge&logo=leetcode&logoColor=38bdf8)](https://leetcode.com/u/Gopinath_Manikandan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a192f?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/gopinath-manikandan-465a6825a)
 
 </div>
 
@@ -152,7 +152,7 @@ class Gopinath:
 
 | Role | Company | Duration | Skills Used |
 |------|---------|----------|-------------|
-| 📊 **Data Analyst Intern** | Besant Technologies, Bangalore | Jan 2026 – Present | SQL, Python, Power BI, Excel |
+| 📊 **Data Analyst Intern** | Besant Technologies, Bangalore | Jan 2026 – Present | SQL, Python, Power BI |
 | 🌐 **Full Stack Intern** | LiveWire, Salem | Sep 2024 – Oct 2024 | HTML, CSS, Bootstrap |
 
 </div>
@@ -220,6 +220,8 @@ class Gopinath:
 [![Gmail](https://img.shields.io/badge/gopinath.m09032005%40gmail.com-0a192f?style=for-the-badge&logo=gmail&logoColor=38bdf8)](mailto:gopinath.m09032005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/gopinath-manikandan-465a6825a)
 [![GitHub](https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/GopinathManikandan)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0a192f?style=for-the-badge&logo=hackerrank&logoColor=38bdf8)](https://www.hackerrank.com/profile/gopinath_m090321)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0a192f?style=for-the-badge&logo=leetcode&logoColor=38bdf8)](https://leetcode.com/u/Gopinath_Manikandan/)
 
 📱 **+91 93458 02480** | 📍 **Bangalore, Karnataka**
 
