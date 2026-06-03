@@ -92,7 +92,7 @@ class Gopinath:
 ### 📊 Sales & Sports Data Analysis Dashboards | Power BI
 </div>
 
-[![Repo](https://img.shields.io/badge/🔗%20View%20Repository-0a192f?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/GopinathManikandan)
+[![Repo](https://img.shields.io/badge/🔗%20View%20Repository-0a192f?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/GopinathManikandan/Dashboards/tree/main/PowerBI%20projects/Adidas_%20dashboard)
 
 > 🎯 **Built end-to-end interactive dashboards** using Adidas Sales and IPL datasets to generate insights on revenue trends, product performance, team performance and match statistics.
 
@@ -113,7 +113,7 @@ class Gopinath:
 ### 🎓 Student Placement Analytics System | SQL
 </div>
 
-[![Repo](https://img.shields.io/badge/🔗%20View%20Repository-0a192f?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/GopinathManikandan)
+[![Repo](https://img.shields.io/badge/🔗%20View%20Repository-0a192f?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/GopinathManikandan/SQL-Projects)
 
 > 🎯 **Analyzed student placement data** using advanced SQL queries to generate insights on placement trends, salary distribution and key performance metrics.
 
@@ -132,7 +132,7 @@ class Gopinath:
 ### 🦠 Sales & COVID-19 Data Analysis | Microsoft Excel
 </div>
 
-[![Repo](https://img.shields.io/badge/🔗%20View%20Repository-0a192f?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/GopinathManikandan)
+[![Repo](https://img.shields.io/badge/🔗%20View%20Repository-0a192f?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/GopinathManikandan/Dashboards/tree/main/Excel%20projects/Covid-19)
 
 > 🎯 **Performed end-to-end data cleaning and analysis** on sales and COVID-19 datasets. Created dynamic dashboards using Pivot Tables and charts to identify trends.
 
