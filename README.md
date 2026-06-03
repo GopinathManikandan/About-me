@@ -1,239 +1,187 @@
-<!-- Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a192f,100:0d3b6e&height=220&section=header&text=Gopinath%20M&fontSize=55&fontColor=38bdf8&fontAlignY=38&desc=🔍%20Data%20Analyst%20%7C%20SQL%20Developer%20%7C%20Power%20BI%20Expert&descAlignY=58&descColor=94a3b8&animation=fadeIn" width="100%"/>
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 𝗚𝗢𝗣𝗜𝗡𝗔𝗧𝗛 𝗠 — GitHub Profile README                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<br/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=👋+Hey%2C+I'm+Gopinath+M;Data+Analyst+%7C+SQL+Developer+%7C+Power+BI+Expert" alt="Typing SVG" />
+</h1>
 
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Business+Insights+%F0%9F%93%8A;SQL+%7C+Power+BI+%7C+Python+%7C+Excel+%F0%9F%9A%80;2026+B.Tech+AI+%26+Data+Science+Graduate+%F0%9F%8E%93;Available+for+Data+Analyst+Roles+%F0%9F%92%BC" alt="Typing SVG" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gopinath-manikandan-465a6825a"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gopinath.m09032005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/GopinathManikandan"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/gopinath_m090321"><img src="https://img.shields.io/badge/-HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Gopinath_Manikandan/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=GopinathManikandan&color=0e75b6&style=flat-square&label=Profile+Views" />
+</p>
 
-<br/>
-
-<!-- Profile Views + Followers -->
-<div align="center">
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-0a192f?style=for-the-badge&logo=hackerrank&logoColor=38bdf8)](https://www.hackerrank.com/profile/gopinath_m090321)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0a192f?style=for-the-badge&logo=leetcode&logoColor=38bdf8)](https://leetcode.com/u/Gopinath_Manikandan/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a192f?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/gopinath-manikandan-465a6825a)
-
-</div>
-
-<br/>
-
----
-
-## 👨‍💻 About Me
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ```python
-class Gopinath:
-    name         = "Gopinath M"
-    role         = "Data Analyst | SQL Developer | Business Analyst"
-    location     = "📍 Bangalore, Karnataka, India"
-    degree       = "B.Tech – AI & Data Science | Mahendra College of Engineering"
-    cgpa         = "7.63"
-    batch        = "2026"
-    
-    skills       = {
-        "Languages"      : ["Python", "SQL"],
-        "Visualization"  : ["Power BI", "Tableau", "Matplotlib"],
-        "Data Analysis"  : ["Pandas", "NumPy", "Excel"],
-        "Database"       : ["MySQL"],
-        "Tools"          : ["GitHub", "Google Colab", "Power Query", "MS Office"]
-    }
-    
-    certifications = [
-        "Python Programming – IIM Bangalore",
-        "Programming in Python – IIM Bangalore",
-        "SQL (Easy & Intermediate) – HackerRank"
-    ]
-    
-    currently    = "📊 Data Analyst Intern @ Besant Technologies, Bangalore"
-    looking_for  = "🚀 Entry-level Data Analyst roles in Bangalore"
-    motto        = "Data tells a story. I make sure it's heard."
+# 📊 gopinath.py — who am I?
+class DataAnalyst:
+    def __init__(self):
+        self.name        = "Gopinath M"
+        self.role        = "Data Analyst | SQL Developer | Business Analyst"
+        self.education   = "B.Tech AI & Data Science — Mahendra College of Engineering (CGPA: 7.63)"
+        self.location    = "Bangalore, Karnataka 🇮🇳"
+        self.contact     = "gopinath.m09032005@gmail.com"
+
+    @property
+    def expertise(self):
+        return [
+            "📊 Data Analysis & Business Insights",
+            "🗄️ SQL — JOINs, Subqueries, GROUP BY",
+            "📈 Power BI Dashboards & KPI Tracking",
+            "🐍 Python — Pandas, NumPy, Matplotlib",
+            "📋 Excel — Pivot Tables, VLOOKUP, Charts",
+        ]
+
+    @property
+    def currently_working_on(self):
+        return {
+            "Adidas Sales Dashboard" : "Power BI end-to-end sales analytics",
+            "IPL Sports Dashboard"   : "Match stats and team performance analysis",
+            "Placement Analytics"    : "SQL-based student placement insights",
+        }
+
+    @property
+    def looking_for(self):
+        return "🚀 Entry-level Data Analyst roles in Bangalore"
+
+me = DataAnalyst()
 ```
 
 ---
 
-## 🚀 Tech Stack & Skills
+### 🧰 Tech Stack & Tools
 
-<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" /><br><sub><b>Python</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" /><br><sub><b>MySQL</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" /><br><sub><b>GitHub</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" /><br><sub><b>VS Code</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jupyter" width="48" /><br><sub><b>Jupyter</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" /><br><sub><b>HTML</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" /><br><sub><b>CSS</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" /><br><sub><b>Git</b></sub></td>
+  </tr>
+</table>
 
-### 📊 Data & Analytics
-![Python](https://img.shields.io/badge/Python-0a192f?style=for-the-badge&logo=python&logoColor=38bdf8)
-![SQL](https://img.shields.io/badge/SQL-0a192f?style=for-the-badge&logo=mysql&logoColor=38bdf8)
-![Pandas](https://img.shields.io/badge/Pandas-0a192f?style=for-the-badge&logo=pandas&logoColor=38bdf8)
-![NumPy](https://img.shields.io/badge/NumPy-0a192f?style=for-the-badge&logo=numpy&logoColor=38bdf8)
-
-### 📈 Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-0a192f?style=for-the-badge&logo=powerbi&logoColor=38bdf8)
-![Tableau](https://img.shields.io/badge/Tableau-0a192f?style=for-the-badge&logo=tableau&logoColor=38bdf8)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0a192f?style=for-the-badge&logo=python&logoColor=38bdf8)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-0a192f?style=for-the-badge&logo=microsoftexcel&logoColor=38bdf8)
-
-### 🗄️ Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-0a192f?style=for-the-badge&logo=mysql&logoColor=38bdf8)
-![GitHub](https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=38bdf8)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-0a192f?style=for-the-badge&logo=googlecolab&logoColor=38bdf8)
-![Jupyter](https://img.shields.io/badge/Jupyter-0a192f?style=for-the-badge&logo=jupyter&logoColor=38bdf8)
-![VS Code](https://img.shields.io/badge/VS%20Code-0a192f?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8)
-![Power Query](https://img.shields.io/badge/Power%20Query-0a192f?style=for-the-badge&logo=microsoftexcel&logoColor=38bdf8)
-
-</div>
-
----
-
-## 🏆 Projects
-
-<div align="center">
-
-### 📊 Sales & Sports Data Analysis Dashboards | Power BI
-</div>
-
-[![Repo](https://img.shields.io/badge/🔗%20View%20Repository-0a192f?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/GopinathManikandan/Dashboards/tree/main/PowerBI%20projects/Adidas_%20dashboard)
-
-> 🎯 **Built end-to-end interactive dashboards** using Adidas Sales and IPL datasets to generate insights on revenue trends, product performance, team performance and match statistics.
-
-**📌 What I did:**
-- 🧹 Cleaned and transformed raw datasets using Power Query
-- 📊 Built KPI cards, bar charts, line charts, pie charts and map visuals
-- 🔍 Used SQL JOINs and GROUP BY to extract city-wise product sales
-- 🎚️ Added slicers for interactive filtering by region and year
-
-**🔑 Key Insight:** West region had highest Adidas revenue | Mumbai Indians had highest IPL win %
-
-`SQL` `Power BI` `DAX` `Power Query` `Data Visualization` `KPI Tracking`
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</p>
 
 ---
 
-<div align="center">
+### 🚀 Featured Projects
 
-### 🎓 Student Placement Analytics System | SQL
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![Repo](https://img.shields.io/badge/🔗%20View%20Repository-0a192f?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/GopinathManikandan/SQL-Projects)
+#### 📊 [Sales & Sports Data Analysis Dashboards](https://github.com/GopinathManikandan/Dashboards/tree/main/PowerBI%20projects/Adidas_%20dashboard)
+> SQL · Power BI · DAX · Power Query
 
-> 🎯 **Analyzed student placement data** using advanced SQL queries to generate insights on placement trends, salary distribution and key performance metrics.
+Built **end-to-end interactive dashboards** using Adidas Sales and IPL datasets. Cleaned 10,000+ records, used SQL JOINs for city-wise analysis. Delivered insights on **revenue trends, product performance and match statistics** using KPI cards, bar charts, and map visuals.
 
-**📌 What I did:**
-- 🔗 Used INNER JOIN, LEFT JOIN to combine multiple data tables
-- 📈 Applied GROUP BY and aggregate functions for trend analysis
-- 🔎 Used subqueries to find top performing departments
-- 📋 Generated reports on salary distribution and placement rates
+</td>
+<td width="50%" valign="top">
 
-`MySQL` `JOINs` `Subqueries` `GROUP BY` `Aggregate Functions` `Data Analysis`
+#### 🎓 [Student Placement Analytics System](https://github.com/GopinathManikandan/SQL-Projects)
+> MySQL · JOINs · Subqueries · GROUP BY
 
----
+Analyzed student placement data using **advanced SQL queries**. Applied JOINs, subqueries and aggregate functions to generate insights on **placement trends, salary distribution and top performing departments**.
 
-<div align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🦠 Sales & COVID-19 Data Analysis | Microsoft Excel
-</div>
+#### 🦠 [COVID-19 Data Analysis Dashboard](https://github.com/GopinathManikandan/Dashboards/tree/main/Excel%20projects/Covid-19)
+> Microsoft Excel · Pivot Tables · VLOOKUP
 
-[![Repo](https://img.shields.io/badge/🔗%20View%20Repository-0a192f?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/GopinathManikandan/Dashboards/tree/main/Excel%20projects/Covid-19)
+Performed **end-to-end data cleaning and analysis** on COVID-19 datasets. Built dynamic dashboards using Pivot Tables, VLOOKUP and Conditional Formatting to identify **monthly trends and recovery patterns**.
 
-> 🎯 **Performed end-to-end data cleaning and analysis** on sales and COVID-19 datasets. Created dynamic dashboards using Pivot Tables and charts to identify trends.
+</td>
+<td width="50%" valign="top">
 
-**📌 What I did:**
-- 🧹 Cleaned raw data using Excel filters and formulas
-- 📊 Built interactive dashboards using Pivot Tables and Charts
-- 🎯 Used VLOOKUP and Conditional Formatting for data insights
-- 📈 Identified monthly trends and recovery patterns
+#### 💼 Data Analyst Internship
+> Besant Technologies, Bangalore · Jan 2026 – Present
 
-`Microsoft Excel` `Pivot Tables` `VLOOKUP` `Conditional Formatting` `Charts` `Data Cleaning`
+Cleaned and transformed **10,000+ records** using SQL and Python. Built **Power BI dashboards** to track business KPIs for stakeholders. Automated repetitive data tasks using Python reducing manual effort significantly.
 
----
-
-## 💼 Work Experience
-
-<div align="center">
-
-| Role | Company | Duration | Skills Used |
-|------|---------|----------|-------------|
-| 📊 **Data Analyst Intern** | Besant Technologies, Bangalore | Jan 2026 – Present | SQL, Python, Power BI |
-| 🌐 **Full Stack Intern** | LiveWire, Salem | Sep 2024 – Oct 2024 | HTML, CSS, Bootstrap |
-
-</div>
-
-### 📊 Data Analyst Intern — Besant Technologies, Bangalore
-- 🧹 Cleaned and transformed **10,000+ records** using SQL and Python for business reporting
-- 🔍 Wrote optimized SQL queries using JOINs, GROUP BY and subqueries to extract actionable insights
-- 📊 Designed interactive **Power BI dashboards** to track KPIs for business stakeholders
-- ⚡ Automated repetitive data tasks using Python, reducing manual effort significantly
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎓 Education
+### 🏆 Achievements & Certifications
 
-<div align="center">
+| 📜 | Certificate | Issuer |
+|:---:|:---|:---|
+| 🐍 | Python Programming and Applications | IIM Bangalore |
+| 🐍 | Programming in Python | IIM Bangalore |
+| 🗄️ | SQL — Easy & Intermediate | HackerRank |
 
-| Degree | Institution | Score | Year |
-|--------|-------------|-------|------|
-| 🎓 **B.Tech – AI & Data Science** | Mahendra College of Engineering, Bengaluru | **CGPA: 7.63** | 2022 – 2026 |
-| 📚 **HSC** | Gugai Hr. Sec. School, Salem | — | 2022 |
-
-</div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-![IIM](https://img.shields.io/badge/Python%20Programming%20%26%20Applications-0a192f?style=for-the-badge&logo=python&logoColor=38bdf8)
-![IIM](https://img.shields.io/badge/Programming%20in%20Python-0a192f?style=for-the-badge&logo=python&logoColor=38bdf8)
-![HackerRank](https://img.shields.io/badge/SQL%20Easy%20%26%20Intermediate-0a192f?style=for-the-badge&logo=hackerrank&logoColor=38bdf8)
-
-**IIM Bangalore** | **IIM Bangalore** | **HackerRank**
-
-</div>
+<p align="right">
+  <a href="https://www.hackerrank.com/profile/gopinath_m090321"><sub>🔗 View HackerRank Profile →</sub></a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GopinathManikandan&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&border_color=38bdf8" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GopinathManikandan&layout=compact&theme=tokyonight&border_color=38bdf8" height="180"/>
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GopinathManikandan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GopinathManikandan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+</p>
 
-<br/>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=GopinathManikandan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=GopinathManikandan&theme=tokyonight&border=38bdf8&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" width="65%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GopinathManikandan&theme=tokyonight&no-frame=true&column=4&margin-w=10"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GopinathManikandan&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%" alt="Activity Graph"/>
+</p>
 
 ---
 
-## 📬 Let's Connect!
+### 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GopinathManikandan/GopinathManikandan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GopinathManikandan/GopinathManikandan/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/GopinathManikandan/GopinathManikandan/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
 
-[![Gmail](https://img.shields.io/badge/gopinath.m09032005%40gmail.com-0a192f?style=for-the-badge&logo=gmail&logoColor=38bdf8)](mailto:gopinath.m09032005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/gopinath-manikandan-465a6825a)
-[![GitHub](https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/GopinathManikandan)
-[![HackerRank](https://img.shields.io/badge/HackerRank-0a192f?style=for-the-badge&logo=hackerrank&logoColor=38bdf8)](https://www.hackerrank.com/profile/gopinath_m090321)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0a192f?style=for-the-badge&logo=leetcode&logoColor=38bdf8)](https://leetcode.com/u/Gopinath_Manikandan/)
+---
 
-📱 **+91 93458 02480** | 📍 **Bangalore, Karnataka**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GopinathManikandan&theme=algolia&no-frame=true&column=7&margin-w=10" alt="Trophies" width="90%"/>
+</p>
 
-<br/>
+---
 
-> *"Data tells a story. I make sure it's heard."* — Gopinath M
+<p align="center">
+  <b>💬 "Data tells a story. I make sure it's heard."</b>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gopinath-manikandan-465a6825a"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gopinath.m09032005@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<br/>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b6e,50:0a192f,100:000000&height=120&section=footer" width="100%"/>
-</div>
+<p align="center"><sub>⭐ Star my repos if you find them useful — it means a lot!</sub></p>
